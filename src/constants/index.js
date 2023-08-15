@@ -57,6 +57,10 @@ import {
       title: "Work",
     },
     {
+      id: "skills",
+      title: "Skiils",
+    },
+    {
       id: "contact",
       title: "Contact",
     },
@@ -79,6 +83,90 @@ import {
       title: "Content Creator",
       icon: creator,
     },
+  ];
+
+  const skills = [
+    {
+      name: "HTML 5",
+      icon: html,
+    },
+    {
+      name: "CSS 3",
+      icon: css,
+    },
+    {
+      name: "JavaScript",
+      icon: javascript,
+    },
+    {
+      name: "TypeScript",
+      icon: typescript,
+    },
+    {
+      name: "React JS",
+      icon: reactjs,
+    },
+    {
+      name: "React Native",
+      icon: techreactnative,
+    },
+    {
+      name: "Tailwind CSS",
+      icon: tailwind,
+    },
+    {
+      name: "CodeIgniter 4",
+      icon: CodeIgniter,
+    },
+    {
+      name: "Framer Motion",
+      icon: FramerMotion,
+    },
+    
+    // {
+    //   name: "Node JS",
+    //   icon: nodejs,
+    // },
+    // {
+    //   name: "MongoDB",
+    //   icon: mongodb,
+    // },
+    {
+      name: "Three JS",
+      icon: threejs,
+    },
+    {
+      name: "VB.Net",
+      icon: VBDotNet,
+    },
+    {
+      name: "PHP",
+      icon: PHPIcon,
+    },
+    {
+      name: "MySQL",
+      icon: MySQL,
+    },
+    {
+      name: "Python",
+      icon: Python,
+    },
+    {
+      name: "R",
+      icon: R,
+    },
+    {
+      name: "git",
+      icon: git,
+    },
+    {
+      name: "figma",
+      icon: figma,
+    },
+    // {
+    //   name: "docker",
+    //   icon: docker,
+    // },
   ];
   
   const technologies = [
@@ -489,4 +577,4 @@ import {
   
 
 
-  export { services, technologies, experiences, testimonials, projects,ProfilePictureImg,socialMedia};
+  export { services, technologies, experiences, testimonials, projects,ProfilePictureImg,socialMedia,skills};
