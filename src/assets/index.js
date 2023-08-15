@@ -51,6 +51,8 @@ import AcApp from './acapp.png'
 import JalantaStays from './jalantastays.png'
 import JalantaStaysMenu from './JalantaMenu.png'
 import KokannestIT from './KokannestIT.png'
+import CodeIgniter from './tech/CodeIgniter.png'
+import ReactNative from './tech/ReactNative.png'
 
 export {
   logo,
@@ -99,5 +101,7 @@ export {
   AcApp,
   JalantaStays,
   JalantaStaysMenu,
-  KokannestIT
+  KokannestIT,
+  CodeIgniter,
+  ReactNative
 };

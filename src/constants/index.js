@@ -41,7 +41,9 @@ import {
     AcApp,
     JalantaStays,
     JalantaStaysMenu,
-    KokannestIT
+    KokannestIT,
+    CodeIgniter,
+    ReactNative
   } from "../assets";
   
   export const navLinks = [
@@ -100,6 +102,10 @@ import {
       icon: reactjs,
     },
     // {
+    //   name: "React Native",
+    //   icon: ReactNative,
+    // },
+    // {
     //   name: "Redux Toolkit",
     //   icon: redux,
     // },
@@ -115,6 +121,10 @@ import {
     //   name: "MongoDB",
     //   icon: mongodb,
     // },
+    {
+      name: "CodeIgniter 4",
+      icon: CodeIgniter,
+    },
     {
       name: "Three JS",
       icon: threejs,
