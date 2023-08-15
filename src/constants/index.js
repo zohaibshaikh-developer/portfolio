@@ -26,6 +26,7 @@ import {
     FlymingoTech,
     MySQL,
     Python,
+    techreactnative,
     R,
     PHPIcon,
     VBDotNet,
@@ -41,7 +42,9 @@ import {
     AcApp,
     JalantaStays,
     JalantaStaysMenu,
-    KokannestIT
+    KokannestIT,
+    CodeIgniter,
+    FramerMotion
   } from "../assets";
   
   export const navLinks = [
@@ -91,22 +94,31 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    // {
-    //   name: "TypeScript",
-    //   icon: typescript,
-    // },
+    {
+      name: "TypeScript",
+      icon: typescript,
+    },
     {
       name: "React JS",
       icon: reactjs,
     },
-    // {
-    //   name: "Redux Toolkit",
-    //   icon: redux,
-    // },
+    {
+      name: "React Native",
+      icon: techreactnative,
+    },
     {
       name: "Tailwind CSS",
       icon: tailwind,
     },
+    {
+      name: "CodeIgniter 4",
+      icon: CodeIgniter,
+    },
+    {
+      name: "Framer Motion",
+      icon: FramerMotion,
+    },
+    
     // {
     //   name: "Node JS",
     //   icon: nodejs,
@@ -119,10 +131,10 @@ import {
       name: "Three JS",
       icon: threejs,
     },
-    {
-      name: "VB.Net",
-      icon: VBDotNet,
-    },
+    // {
+    //   name: "VB.Net",
+    //   icon: VBDotNet,
+    // },
     {
       name: "PHP",
       icon: PHPIcon,
@@ -131,22 +143,22 @@ import {
       name: "MySQL",
       icon: MySQL,
     },
-    {
-      name: "Python",
-      icon: Python,
-    },
-    {
-      name: "R",
-      icon: R,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
+    // {
+    //   name: "Python",
+    //   icon: Python,
+    // },
+    // {
+    //   name: "R",
+    //   icon: R,
+    // },
+    // {
+    //   name: "git",
+    //   icon: git,
+    // },
+    // {
+    //   name: "figma",
+    //   icon: figma,
+    // },
     // {
     //   name: "docker",
     //   icon: docker,

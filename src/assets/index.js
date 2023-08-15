@@ -51,6 +51,9 @@ import AcApp from './acapp.png'
 import JalantaStays from './jalantastays.png'
 import JalantaStaysMenu from './JalantaMenu.png'
 import KokannestIT from './KokannestIT.png'
+import techreactnative from './tech/reactnative.png'
+import CodeIgniter from './tech/CodeIgniter.png'
+import FramerMotion from './tech/FramerMotion.png'
 
 export {
   logo,
@@ -74,6 +77,7 @@ export {
   javascript,
   mongodb,
   nodejs,
+  techreactnative,
   reactjs,
   redux,
   tailwind,
@@ -99,5 +103,7 @@ export {
   AcApp,
   JalantaStays,
   JalantaStaysMenu,
-  KokannestIT
+  KokannestIT,
+  CodeIgniter,
+  FramerMotion
 };
