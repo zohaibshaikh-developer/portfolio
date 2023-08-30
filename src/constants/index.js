@@ -58,7 +58,7 @@ import {
     },
     {
       id: "skills",
-      title: "Skiils",
+      title: "Skills",
     },
     {
       id: "contact",

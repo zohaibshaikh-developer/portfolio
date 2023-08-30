@@ -11,7 +11,7 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
-import Skiils from "./components/Skiils";
+import Skills from "./components/Skills";
 
 const App = () => {
   return (
@@ -25,7 +25,7 @@ const App = () => {
         <Experience/>
         <Tech/>
         <Works/>
-        <Skiils/>
+        <Skills/>
         <Feedbacks/>
         <div className="relative z-0">
            <Contact/>
