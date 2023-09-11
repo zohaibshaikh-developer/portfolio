@@ -54,6 +54,8 @@ import KokannestIT from './KokannestIT.png'
 import techreactnative from './tech/reactnative.png'
 import CodeIgniter from './tech/CodeIgniter.png'
 import FramerMotion from './tech/FramerMotion.png'
+import NodeJS from './tech/NodeJS.png'
+import ExpressJS from './tech/ExpressJS.png'
 
 export {
   logo,
@@ -105,5 +107,7 @@ export {
   JalantaStaysMenu,
   KokannestIT,
   CodeIgniter,
-  FramerMotion
+  FramerMotion,
+  NodeJS,
+  ExpressJS
 };

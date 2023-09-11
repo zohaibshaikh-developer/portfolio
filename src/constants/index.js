@@ -44,7 +44,9 @@ import {
     JalantaStaysMenu,
     KokannestIT,
     CodeIgniter,
-    FramerMotion
+    FramerMotion,
+    NodeJS,
+    ExpressJS
   } from "../assets";
   
   export const navLinks = [
@@ -117,6 +119,18 @@ import {
     {
       name: "CodeIgniter 4",
       icon: CodeIgniter,
+    },
+    {
+      name: "Mongo DB",
+      icon: mongodb,
+    },
+    {
+      name: "Express JS",
+      icon: ExpressJS,
+    },
+    {
+      name: "Node JS",
+      icon: NodeJS,
     },
     {
       name: "Framer Motion",
@@ -203,8 +217,8 @@ import {
       icon: CodeIgniter,
     },
     {
-      name: "Framer Motion",
-      icon: FramerMotion,
+      name: "Node JS",
+      icon: NodeJS,
     },
     
     // {
@@ -294,7 +308,7 @@ import {
     //   ],
     // },
     {
-      title: "React Native and React.js Developer",
+      title: "Full Stack Developer",
       company_name: "Flymingo Tech",
       icon: FlymingoTech,
       iconBg: "#E6DEDD",
@@ -303,6 +317,7 @@ import {
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Developing and maintaining mobile applications using React Native and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Creating and integrating APIs using CodeIgnitor4 language in both web and mobile applications.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
